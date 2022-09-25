@@ -11,7 +11,7 @@
 - pandas
 - tqdm
 
-## Toy example
+## HEX graph example
 
 HMI-toy-example.ipynb provides a toy example of HMI for embedding HEX graph.
 
