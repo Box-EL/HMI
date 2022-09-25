@@ -16,7 +16,7 @@ PyTorch implementation of **Hyperbolic Embedding Inference for Structured Multi-
 
 HMI-toy-example.ipynb provides a toy example of HMI for embedding HEX graph.
 
-Given the HEX graph (left), you will obtain the following output:
+Given the HEX graph (left), you will obtain the output label embeddings (right):
 
 
 Hierarchy and exclusion (HEX) graph             |  Learning hyperbolic label embeddings
